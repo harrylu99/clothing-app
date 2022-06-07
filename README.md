@@ -1,24 +1,27 @@
-# clothing-app
+# MR Frontend Developer Technical Test
 
-## Project setup
+## 📖 About The Project
+
+This is a simple product details section of a clothing shopping web application.
+
+User can add different size of the product to the chart, as well as they are able to check the chart by the mini-chart setion.
+
+## 🏗️ Built With
+
+- [Vue.js 2.0](https://v2.vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [BootstrapVue](https://bootstrap-vue.org/)
+
+## 💡 Getting Started
+
+Start with cloning this repo on your local machine, then install.
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Serving the app.
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

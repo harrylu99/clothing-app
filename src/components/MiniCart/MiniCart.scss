@@ -1,0 +1,33 @@
+.mini-cart {
+  position: absolute;
+  top: 4rem;
+  right: 2rem;
+  width: 20rem;
+  height: 20rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: white;
+  border: 0.05rem solid #222222;
+  z-index: 1;
+
+  .empty-warning {
+    font-size: 1rem;
+  }
+  .pic {
+    padding: 1rem 2rem;
+  }
+
+  .desc {
+    padding: 1rem 2rem;
+    font-size: 0.6rem;
+    text-align: left;
+    .title {
+      padding-bottom: 0.5rem;
+    }
+
+    .price {
+      font-weight: bold;
+      padding-bottom: 0.5rem;
+    }
+  }
+}
