@@ -4,7 +4,7 @@
 
 This is a simple product details section of a clothing shopping web application.
 
-User can add different size of the product to the chart, as well as they are able to check the chart by the mini-chart setion.
+User can add different size of the product to the chart, as well as they are able to check the chart by the mini-chart section.
 
 ## 🏗️ Built With
 
@@ -24,4 +24,22 @@ Serving the app.
 
 ```
 npm run serve
+```
+
+## 📁 File Structure
+
+```shell
+clothing-app
+├── public
+├── src
+│  │  ├── components
+│  │  ├── interface
+│  │  ├── mapping
+│  │  └── router
+│  │
+│  ├── App.vue
+│  ├── main.ts
+│  └── shims-vue.d.ts
+│
+└── tsconfig.js
 ```
